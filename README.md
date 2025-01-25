@@ -1,2 +1,2 @@
 # DataTrailblazer
-"Exploring the world of data analysis through the Bank of Zambia CMMP credit data. This repository showcases my journey as a data analyst, featuring data cleaning, exploration, visualization, and actionable insights to uncover trends and stories within the numbers."
+"A collection of data analysis projects showcasing my growth as a data analyst. From cleaning and visualizing datasets to uncovering insights and trends, this repository is a testament to learning, curiosity, and the power of data."
